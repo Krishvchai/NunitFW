@@ -8,5 +8,6 @@ namespace Krishna_Personal.TestMethods
 {
     public class BaseTestMethod
     {
+
     }
 }
